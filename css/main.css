@@ -1,0 +1,53 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+margin:20px;
+padding:5px;
+color:#ce1b1d;
+
+}
+h2{
+text-align:center;
+font-style:bold;
+}
+#topbar{
+height:8%;
+text-align:right;
+}
+#topbar a{
+font:bold 15px Tahoma;
+}
+#left{
+width:40%;
+display:inline-block;
+border:2px solid black;
+}
+
+#right{
+width:58%;
+display:inline-block;
+border:2px solid black;
+}
+.bold{
+font: bold 20px Tahoma;
+color:blue;
+}
+form{
+text-align:center;
+}
+#text_input{
+height:200px;
+width:600px;
+}
+.input_button{
+width:100px;
+}
+.error{
+font:bold 15px Tahoma;
+color:red;
+}
+.details{
+float:right;
+}
